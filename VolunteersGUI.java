@@ -7,6 +7,13 @@ Purpose: To show ArrayList of Volunteers & let user do simple actions
 *******************************************************************************
 */
 
+/*------------------------------------------------------------------------------
+       FEEDBACK FROM INSTRUCTOR:
+       Overall very good.  The output to the console would look better if 
+       displayed in the GUI.  Also, it would be nice to display index values to 
+       make it easier for the user they want to remove an item.  Overall, good.
+------------------------------------------------------------------------------*/
+
 import java.util.Collections;
 import java.util.ArrayList;
 import java.util.Scanner;
